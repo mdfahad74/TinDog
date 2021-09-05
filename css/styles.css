@@ -2,6 +2,7 @@
 body{
   font-family: 'Montserrat', sans-ser;
   text-align: center;
+  scroll-behavior: smooth;
 }
 
 h3{
